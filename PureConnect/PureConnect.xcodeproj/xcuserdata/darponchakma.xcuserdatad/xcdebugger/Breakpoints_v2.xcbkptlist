@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "82A2F3AF-9F11-4E66-8EFC-42F36F1D9A1A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90CE79BE-A303-46FB-B79E-8C95D6E23E53"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PureConnect/AccountViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "AccountViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "90CE79BE-A303-46FB-B79E-8C95D6E23E53 - f08c8bfea628c95b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureConnect.AccountViewController.img.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "PureConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darponchakma/Desktop/PureConnect%202/PureConnect/PureConnect/AccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "90CE79BE-A303-46FB-B79E-8C95D6E23E53 - a09e804abae99557"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureConnect.AccountViewController.img.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "PureConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darponchakma/Desktop/PureConnect%202/PureConnect/PureConnect/AccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "90CE79BE-A303-46FB-B79E-8C95D6E23E53 - bcd3a0da46df9246"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureConnect.AccountViewController.img.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "PureConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darponchakma/Desktop/PureConnect%202/PureConnect/PureConnect/AccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "90CE79BE-A303-46FB-B79E-8C95D6E23E53 - f7b25183f42f88ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureConnect.AccountViewController.img.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PureConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darponchakma/Desktop/PureConnect%202/PureConnect/PureConnect/AccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "90CE79BE-A303-46FB-B79E-8C95D6E23E53 - 56a137cb2c4e3263"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureConnect.AccountViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PureConnect.AccountViewController"
+                  moduleName = "PureConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darponchakma/Desktop/PureConnect%202/PureConnect/PureConnect/AccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "90CE79BE-A303-46FB-B79E-8C95D6E23E53 - 9389112fa1374915"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PureConnect.AccountViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PureConnect.AccountViewController&gt;"
+                  moduleName = "PureConnect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/darponchakma/Desktop/PureConnect%202/PureConnect/PureConnect/AccountViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
